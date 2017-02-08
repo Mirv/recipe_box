@@ -14,5 +14,5 @@
 //= require cocoon
 //= require jquery_ujs
 //= require bootstrap-sprockets
-//= require turbolinks
+//= require recipes.js
 //= require_tree .
